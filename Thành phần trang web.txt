@@ -1,0 +1,22 @@
+(I) Phân tích
+
+(1). Header
+
+(2). Slider
+
+(3). Content
+   
+   ------(1). About
+   
+   ------(2). Tour
+   
+   ------(3). contact
+   
+   ------(4). image
+
+(4). footer
+
+
+(II) Dựng base (xây móng)
+(III) Xây dựng từng phần theo phân tích
+(IV) Hoàn Thiện
